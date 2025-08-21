@@ -40,7 +40,12 @@ It is designed to demonstrate the integration of data analysis, prediction model
    - **Hours vs Final Score**  
    - **Attendance vs Final Score**  
    - **Actual vs Predicted Comparison**  
-   - **Gender-wise Avg Score**  
+   - **Gender-wise Avg Score**  ##  Tableau Dashboard Preview
+
+Below is a snapshot of the final Tableau dashboard:
+
+![Dashboard Preview](dashboard.png)
+
 
 ### 3️⃣ Presentation
 - Open `Student_Score_Prediction_Presentation_Short.pptx` for slides.  
